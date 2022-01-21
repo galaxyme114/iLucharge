@@ -1,0 +1,417 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d5e0f36a41112984e1f16dbb9be7558a\flipper-0.54.0\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\c8b79d9a2e216fa16b704ceb8b17f565\flipper-network-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\c56bfb997d44d1aa2580f807faa15535\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-async-storage_async-storage] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_toolbar-android] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\toolbar-android\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-geolocation-service] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-geolocation-service\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-localize] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-reanimated] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\be5b3fda35052f2b333cb5966b76cc8b\jetified-react-native-0.63.4\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\a5e78667e2deee827215d3988d0bdd96\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\4185792efc30c77dea191772935402e5\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\bfbf0d3851fc5d2e3922d2081b3f7191\flipper-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\9bcc51cb3389da03b582960e7e707136\stetho-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\3c52e9a3a2b18b60c0b8adfb58dbeb7e\fresco-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\46b5fa7e0d7d640a257e1767bf835611\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8780ff48854ce35732a89b3e67dbd51d\drawee-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\b189098380a62b7bfc799f0dab60b6a5\nativeimagefilters-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\0d80331f6ffc09aa8fcd71c0af076daa\memory-type-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e06c4b50200959afc9196bca5d8826ed\memory-type-java-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\0dd77dde7c9612d4a817beaea299d1e0\imagepipeline-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e9e0a7738da249c3533ab35ead4450c5\memory-type-ashmem-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\494631d5d469844cfac5a411b8dabf6d\imagepipeline-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\172277f01c99cbddcc0804341fe32c50\nativeimagetranscoder-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\7bc0cf5de656af900923681488fe72ce\imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e500d1a42a6d6fd6f8cc7005b7cdf916\soloader-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6a2cf4f43596973239a4be14d3a20eaf\soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\77143cd770e26d91b9f69941650244f0\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\69473a4178070c70533d21447a5f2f1c\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fa1728d75b97ccc9b1598a77f4cfbf17\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\59ce30e95f7b410cc0b8d42b613564a8\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8268a59a48829aba1eb531da3e303823\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\05f51fd2207b1112b188e7c40d0a5262\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fcd80a29f6f8b247166e546b974c7881\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2b9c88dc944a3ae5d8943a542d3b52a6\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\eabd4fb805aed17109d8369587a40412\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b5bc9b3a85995e86fbab04997feab02\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e0ccc17a59b9ca700dc223aeb212ec0c\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\5a4ee9b5f387177a1eb6a913d14cc1d3\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2e751330d96d398b29b71f838caab410\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2f77a0752bdb215f8abc26c2d3ac60f3\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d44267ced14c5b645e297a66f14a2759\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\b72a4066239da666d603604133e6aa34\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d97724d70a98f5109eeb16b4edeb2260\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\f7400311ae30d4e20dd30e93dc2ce0cd\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\b33569a1d3f840a88e2720f583adc452\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6114fe365de4d1372ac07f553e4b1521\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\653fe1283a7deb44d3004819fa7b8e51\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\69347a1c9245e8f8370158b87a5cdfba\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\7645d0e453c589ff6339e90d452d5930\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\57f2b79ecbd068d900359651694ff942\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\30ed2372640c58fdef8ec16713eeed94\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\3691d24b6902a22d106b30a0bf2ecce5\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\c6ce91ba1d556aff169e4b7bcf048dd8\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\a609929074dd87adcf94228bda848ebd\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6d4c3f33a2ca7251a8eba7547dfef5f3\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e0019b71ca12c60e4d83cca4653a732a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\bc891e9d2c3de276c35ed843a8655e02\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b26493c5b432242fa3ae4f78822e0f8\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\cce0fbe77565585520133079131e678b\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\4329aafe42f7e6e79a931d71d525ed4e\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8afa7fb661764a74fd58ce7f75824384\ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d5e0f36a41112984e1f16dbb9be7558a\flipper-0.54.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d5e0f36a41112984e1f16dbb9be7558a\flipper-0.54.0\AndroidManifest.xml:15:5-67
+MERGED from [:react-native-maps] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:5:5-80
+MERGED from [:react-native-maps] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-18:19
+MERGED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-18:19
+MERGED from [:react-native-community_datetimepicker] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\be5b3fda35052f2b333cb5966b76cc8b\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\be5b3fda35052f2b333cb5966b76cc8b\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6a2cf4f43596973239a4be14d3a20eaf\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6a2cf4f43596973239a4be14d3a20eaf\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\77143cd770e26d91b9f69941650244f0\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\77143cd770e26d91b9f69941650244f0\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\05f51fd2207b1112b188e7c40d0a5262\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\05f51fd2207b1112b188e7c40d0a5262\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fcd80a29f6f8b247166e546b974c7881\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fcd80a29f6f8b247166e546b974c7881\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2b9c88dc944a3ae5d8943a542d3b52a6\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2b9c88dc944a3ae5d8943a542d3b52a6\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\eabd4fb805aed17109d8369587a40412\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\eabd4fb805aed17109d8369587a40412\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b5bc9b3a85995e86fbab04997feab02\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b5bc9b3a85995e86fbab04997feab02\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\69347a1c9245e8f8370158b87a5cdfba\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\69347a1c9245e8f8370158b87a5cdfba\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\57f2b79ecbd068d900359651694ff942\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\57f2b79ecbd068d900359651694ff942\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\cce0fbe77565585520133079131e678b\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\cce0fbe77565585520133079131e678b\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\69347a1c9245e8f8370158b87a5cdfba\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:10:7-39
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:12:7-52
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:11:7-41
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:13:7-34
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:14:7-38
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:9:7-38
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:9:7-38
+activity#com.ilucharge.MainActivity
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:15:7-25:18
+	android:label
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:19:9-40
+	android:windowSoftInputMode
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:18:9-86
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:26:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:28:7-31:9
+	android:value
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:30:9-64
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:29:9-54
+uses-sdk
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+MERGED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d5e0f36a41112984e1f16dbb9be7558a\flipper-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d5e0f36a41112984e1f16dbb9be7558a\flipper-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\c8b79d9a2e216fa16b704ceb8b17f565\flipper-network-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\c8b79d9a2e216fa16b704ceb8b17f565\flipper-network-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\c56bfb997d44d1aa2580f807faa15535\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\c56bfb997d44d1aa2580f807faa15535\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-async-storage_async-storage] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\toolbar-android\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_toolbar-android] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\@react-native-community\toolbar-android\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geolocation-service] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-geolocation-service\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-geolocation-service\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localize] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\be5b3fda35052f2b333cb5966b76cc8b\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\be5b3fda35052f2b333cb5966b76cc8b\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\a5e78667e2deee827215d3988d0bdd96\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\a5e78667e2deee827215d3988d0bdd96\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\4185792efc30c77dea191772935402e5\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\4185792efc30c77dea191772935402e5\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\bfbf0d3851fc5d2e3922d2081b3f7191\flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\bfbf0d3851fc5d2e3922d2081b3f7191\flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\9bcc51cb3389da03b582960e7e707136\stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\9bcc51cb3389da03b582960e7e707136\stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\3c52e9a3a2b18b60c0b8adfb58dbeb7e\fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\3c52e9a3a2b18b60c0b8adfb58dbeb7e\fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\46b5fa7e0d7d640a257e1767bf835611\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\46b5fa7e0d7d640a257e1767bf835611\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8780ff48854ce35732a89b3e67dbd51d\drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8780ff48854ce35732a89b3e67dbd51d\drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\b189098380a62b7bfc799f0dab60b6a5\nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\b189098380a62b7bfc799f0dab60b6a5\nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\0d80331f6ffc09aa8fcd71c0af076daa\memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\0d80331f6ffc09aa8fcd71c0af076daa\memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e06c4b50200959afc9196bca5d8826ed\memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e06c4b50200959afc9196bca5d8826ed\memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\0dd77dde7c9612d4a817beaea299d1e0\imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\0dd77dde7c9612d4a817beaea299d1e0\imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e9e0a7738da249c3533ab35ead4450c5\memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e9e0a7738da249c3533ab35ead4450c5\memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\494631d5d469844cfac5a411b8dabf6d\imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\494631d5d469844cfac5a411b8dabf6d\imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\172277f01c99cbddcc0804341fe32c50\nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\172277f01c99cbddcc0804341fe32c50\nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\7bc0cf5de656af900923681488fe72ce\imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\7bc0cf5de656af900923681488fe72ce\imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e500d1a42a6d6fd6f8cc7005b7cdf916\soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e500d1a42a6d6fd6f8cc7005b7cdf916\soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6a2cf4f43596973239a4be14d3a20eaf\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6a2cf4f43596973239a4be14d3a20eaf\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\77143cd770e26d91b9f69941650244f0\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\77143cd770e26d91b9f69941650244f0\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\69473a4178070c70533d21447a5f2f1c\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\69473a4178070c70533d21447a5f2f1c\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fa1728d75b97ccc9b1598a77f4cfbf17\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fa1728d75b97ccc9b1598a77f4cfbf17\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\59ce30e95f7b410cc0b8d42b613564a8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\59ce30e95f7b410cc0b8d42b613564a8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8268a59a48829aba1eb531da3e303823\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8268a59a48829aba1eb531da3e303823\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\05f51fd2207b1112b188e7c40d0a5262\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\05f51fd2207b1112b188e7c40d0a5262\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fcd80a29f6f8b247166e546b974c7881\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fcd80a29f6f8b247166e546b974c7881\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2b9c88dc944a3ae5d8943a542d3b52a6\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2b9c88dc944a3ae5d8943a542d3b52a6\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\eabd4fb805aed17109d8369587a40412\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\eabd4fb805aed17109d8369587a40412\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b5bc9b3a85995e86fbab04997feab02\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b5bc9b3a85995e86fbab04997feab02\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e0ccc17a59b9ca700dc223aeb212ec0c\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e0ccc17a59b9ca700dc223aeb212ec0c\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\5a4ee9b5f387177a1eb6a913d14cc1d3\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\5a4ee9b5f387177a1eb6a913d14cc1d3\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2e751330d96d398b29b71f838caab410\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2e751330d96d398b29b71f838caab410\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2f77a0752bdb215f8abc26c2d3ac60f3\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\2f77a0752bdb215f8abc26c2d3ac60f3\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d44267ced14c5b645e297a66f14a2759\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d44267ced14c5b645e297a66f14a2759\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\b72a4066239da666d603604133e6aa34\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\b72a4066239da666d603604133e6aa34\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d97724d70a98f5109eeb16b4edeb2260\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d97724d70a98f5109eeb16b4edeb2260\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\f7400311ae30d4e20dd30e93dc2ce0cd\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\f7400311ae30d4e20dd30e93dc2ce0cd\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\b33569a1d3f840a88e2720f583adc452\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\b33569a1d3f840a88e2720f583adc452\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6114fe365de4d1372ac07f553e4b1521\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6114fe365de4d1372ac07f553e4b1521\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\653fe1283a7deb44d3004819fa7b8e51\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\653fe1283a7deb44d3004819fa7b8e51\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\69347a1c9245e8f8370158b87a5cdfba\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\69347a1c9245e8f8370158b87a5cdfba\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\7645d0e453c589ff6339e90d452d5930\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\7645d0e453c589ff6339e90d452d5930\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\57f2b79ecbd068d900359651694ff942\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\57f2b79ecbd068d900359651694ff942\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\30ed2372640c58fdef8ec16713eeed94\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\30ed2372640c58fdef8ec16713eeed94\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\3691d24b6902a22d106b30a0bf2ecce5\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\3691d24b6902a22d106b30a0bf2ecce5\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\c6ce91ba1d556aff169e4b7bcf048dd8\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\c6ce91ba1d556aff169e4b7bcf048dd8\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\a609929074dd87adcf94228bda848ebd\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\a609929074dd87adcf94228bda848ebd\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6d4c3f33a2ca7251a8eba7547dfef5f3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\6d4c3f33a2ca7251a8eba7547dfef5f3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e0019b71ca12c60e4d83cca4653a732a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\e0019b71ca12c60e4d83cca4653a732a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\bc891e9d2c3de276c35ed843a8655e02\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\bc891e9d2c3de276c35ed843a8655e02\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b26493c5b432242fa3ae4f78822e0f8\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b26493c5b432242fa3ae4f78822e0f8\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\cce0fbe77565585520133079131e678b\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\cce0fbe77565585520133079131e678b\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\4329aafe42f7e6e79a931d71d525ed4e\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\4329aafe42f7e6e79a931d71d525ed4e\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8afa7fb661764a74fd58ce7f75824384\ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8afa7fb661764a74fd58ce7f75824384\ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml
+INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from F:\mData\SJU\Chols\ev-charger-app\iLucharge\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-76
+service#org.eclipse.paho.android.service.MqttService
+ADDED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-17:19
+	android:name
+		ADDED from [:sp-react-native-mqtt] F:\mData\SJU\Chols\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:18-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d5e0f36a41112984e1f16dbb9be7558a\flipper-0.54.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\d5e0f36a41112984e1f16dbb9be7558a\flipper-0.54.0\AndroidManifest.xml:16:22-73
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8f1b2b6fe2e9e7f9d4986e071a79b7a6\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fcd80a29f6f8b247166e546b974c7881\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fcd80a29f6f8b247166e546b974c7881\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fcd80a29f6f8b247166e546b974c7881\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\fcd80a29f6f8b247166e546b974c7881\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b5bc9b3a85995e86fbab04997feab02\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\cce0fbe77565585520133079131e678b\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\cce0fbe77565585520133079131e678b\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b5bc9b3a85995e86fbab04997feab02\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Skeleton\.gradle\caches\transforms-2\files-2.1\8b5bc9b3a85995e86fbab04997feab02\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

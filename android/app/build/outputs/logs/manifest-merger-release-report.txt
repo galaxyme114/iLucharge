@@ -1,0 +1,358 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-async-storage_async-storage] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_toolbar-android] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\toolbar-android\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-geolocation-service] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-geolocation-service\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-localize] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-localize\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-reanimated] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d60097d897a9aab1563116de631f69e1\jetified-react-native-0.63.4\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\bdd12e717dce0623989f1d33dbf56cb5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\fcff261677dfffc6075c02575bfcf2ba\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0de090eb085e2927f79d80e53e48fe4a\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d2974ac36bf11b6e048576ef94732df8\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\7ffeff9f17ac5012ce5da51a6869169a\fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\ea62a9111fa04fa6fe9c77fa370c370b\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\57c9060f347e916ca4aa40789b31d82d\drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\30c328489be71019b20e01bb5a992829\nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\f8c38c4e4bc331070d69d4f711bb955e\imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\6e627309edd85ef0846a5ceb08fdec38\nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\90aab5021dca99016e45987a037f8e06\imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4b0dd2d6ec0bf67f0634075d556a21f9\soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\19060a722b353012cd8bb655c70afa6e\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\41ef6357a64fd4085b38d1efc30ade4f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d64d217190aaee1335461656f5f82a02\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0ce5e51cd5f7017fe3ec9ed48bec50a0\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\ba05884875870a2ecd7f24732b5f16c4\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\880f97e10aa9cd8eb5f7ea64cdb3d9a7\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\726bba49e0183c05224f2d1b5426cbc7\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\b1187d105d9bd3bceb0f8e36ff0f40d9\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\1f01c29ec78010bb4c5e31af15a39e74\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\1202e6086cdc3b469763ad5bee5b45b6\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\18bdca9f8f61a57ae90bfd1ad4c9580b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\f9fcf009d0b31aa939c68bc0e24a0996\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\1d8496d170f0248ef3f0ce689cdab66a\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\f0cd60f5c1a2733b1665ea225fc9a80e\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\2043c0942d2c009d64318d1896be417b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\3f28d3b5e6a1b437716a4a87171f94e0\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\fc8cf49e07e8476e374757fdd1fa7a3d\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9a4658afade2e57b9a640b6674c28496\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\45f095b99c71fdce0546e4009590b7f9\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\02de4da9a5cd6f235c8268824896d6a9\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a6d373f139c6eda391390170fd902553\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\bbf007ae7619dc89698c264f3344b6f9\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d96af0c2fdfafd91d6a42e9832a39cbd\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\394b97ffb558e66eed3204e5e421f5ca\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d083032fdb1417621ab1f4605762445b\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\88b4942c649868cf61d21d40e1e1f329\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9fe2502cfda519e1e952c07f80bb73c3\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\c97e23b277aa98fd0937b56aa27036ff\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4dbd2187f8e930210e04a8afc20716d2\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d867b6a163bea18b385a5c70531240eb\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [:react-native-maps] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:5:5-80
+MERGED from [:react-native-maps] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-18:19
+MERGED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-18:19
+MERGED from [:react-native-community_datetimepicker] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d60097d897a9aab1563116de631f69e1\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d60097d897a9aab1563116de631f69e1\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0de090eb085e2927f79d80e53e48fe4a\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0de090eb085e2927f79d80e53e48fe4a\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4b0dd2d6ec0bf67f0634075d556a21f9\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4b0dd2d6ec0bf67f0634075d556a21f9\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0ce5e51cd5f7017fe3ec9ed48bec50a0\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0ce5e51cd5f7017fe3ec9ed48bec50a0\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\ba05884875870a2ecd7f24732b5f16c4\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\ba05884875870a2ecd7f24732b5f16c4\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\880f97e10aa9cd8eb5f7ea64cdb3d9a7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\880f97e10aa9cd8eb5f7ea64cdb3d9a7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9a4658afade2e57b9a640b6674c28496\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9a4658afade2e57b9a640b6674c28496\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\02de4da9a5cd6f235c8268824896d6a9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\02de4da9a5cd6f235c8268824896d6a9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4dbd2187f8e930210e04a8afc20716d2\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4dbd2187f8e930210e04a8afc20716d2\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9a4658afade2e57b9a640b6674c28496\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:10:7-39
+	android:roundIcon
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:12:7-52
+	android:icon
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:9:7-38
+activity#com.ilucharge.MainActivity
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:15:7-25:18
+	android:label
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:19:9-40
+	android:windowSoftInputMode
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:18:9-86
+	android:name
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:26:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:28:7-31:9
+	android:value
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:30:9-64
+	android:name
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:29:9-54
+uses-sdk
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+MERGED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-async-storage_async-storage] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\toolbar-android\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_toolbar-android] D:\Download\ev-charger-app\iLucharge\node_modules\@react-native-community\toolbar-android\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geolocation-service] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-geolocation-service\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-geolocation-service\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localize] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-localize\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-localize\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d60097d897a9aab1563116de631f69e1\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d60097d897a9aab1563116de631f69e1\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\bdd12e717dce0623989f1d33dbf56cb5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\bdd12e717dce0623989f1d33dbf56cb5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\fcff261677dfffc6075c02575bfcf2ba\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\fcff261677dfffc6075c02575bfcf2ba\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\Download\ev-charger-app\iLucharge\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0de090eb085e2927f79d80e53e48fe4a\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0de090eb085e2927f79d80e53e48fe4a\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d2974ac36bf11b6e048576ef94732df8\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d2974ac36bf11b6e048576ef94732df8\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\7ffeff9f17ac5012ce5da51a6869169a\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\7ffeff9f17ac5012ce5da51a6869169a\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\ea62a9111fa04fa6fe9c77fa370c370b\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\ea62a9111fa04fa6fe9c77fa370c370b\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\57c9060f347e916ca4aa40789b31d82d\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\57c9060f347e916ca4aa40789b31d82d\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\30c328489be71019b20e01bb5a992829\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\30c328489be71019b20e01bb5a992829\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\f8c38c4e4bc331070d69d4f711bb955e\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\f8c38c4e4bc331070d69d4f711bb955e\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\6e627309edd85ef0846a5ceb08fdec38\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\6e627309edd85ef0846a5ceb08fdec38\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\90aab5021dca99016e45987a037f8e06\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\90aab5021dca99016e45987a037f8e06\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4b0dd2d6ec0bf67f0634075d556a21f9\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4b0dd2d6ec0bf67f0634075d556a21f9\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\19060a722b353012cd8bb655c70afa6e\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\19060a722b353012cd8bb655c70afa6e\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\41ef6357a64fd4085b38d1efc30ade4f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\41ef6357a64fd4085b38d1efc30ade4f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d64d217190aaee1335461656f5f82a02\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d64d217190aaee1335461656f5f82a02\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0ce5e51cd5f7017fe3ec9ed48bec50a0\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\0ce5e51cd5f7017fe3ec9ed48bec50a0\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\ba05884875870a2ecd7f24732b5f16c4\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\ba05884875870a2ecd7f24732b5f16c4\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\880f97e10aa9cd8eb5f7ea64cdb3d9a7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\880f97e10aa9cd8eb5f7ea64cdb3d9a7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\726bba49e0183c05224f2d1b5426cbc7\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\726bba49e0183c05224f2d1b5426cbc7\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\b1187d105d9bd3bceb0f8e36ff0f40d9\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\b1187d105d9bd3bceb0f8e36ff0f40d9\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\1f01c29ec78010bb4c5e31af15a39e74\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\1f01c29ec78010bb4c5e31af15a39e74\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\1202e6086cdc3b469763ad5bee5b45b6\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\1202e6086cdc3b469763ad5bee5b45b6\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\18bdca9f8f61a57ae90bfd1ad4c9580b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\18bdca9f8f61a57ae90bfd1ad4c9580b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\f9fcf009d0b31aa939c68bc0e24a0996\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\f9fcf009d0b31aa939c68bc0e24a0996\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\1d8496d170f0248ef3f0ce689cdab66a\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\1d8496d170f0248ef3f0ce689cdab66a\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\f0cd60f5c1a2733b1665ea225fc9a80e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\f0cd60f5c1a2733b1665ea225fc9a80e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\2043c0942d2c009d64318d1896be417b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\2043c0942d2c009d64318d1896be417b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\3f28d3b5e6a1b437716a4a87171f94e0\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\3f28d3b5e6a1b437716a4a87171f94e0\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\fc8cf49e07e8476e374757fdd1fa7a3d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\fc8cf49e07e8476e374757fdd1fa7a3d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9a4658afade2e57b9a640b6674c28496\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9a4658afade2e57b9a640b6674c28496\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\45f095b99c71fdce0546e4009590b7f9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\45f095b99c71fdce0546e4009590b7f9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\02de4da9a5cd6f235c8268824896d6a9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\02de4da9a5cd6f235c8268824896d6a9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a6d373f139c6eda391390170fd902553\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a6d373f139c6eda391390170fd902553\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\bbf007ae7619dc89698c264f3344b6f9\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\bbf007ae7619dc89698c264f3344b6f9\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d96af0c2fdfafd91d6a42e9832a39cbd\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d96af0c2fdfafd91d6a42e9832a39cbd\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\394b97ffb558e66eed3204e5e421f5ca\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\394b97ffb558e66eed3204e5e421f5ca\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d083032fdb1417621ab1f4605762445b\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d083032fdb1417621ab1f4605762445b\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\88b4942c649868cf61d21d40e1e1f329\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\88b4942c649868cf61d21d40e1e1f329\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9fe2502cfda519e1e952c07f80bb73c3\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9fe2502cfda519e1e952c07f80bb73c3\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\c97e23b277aa98fd0937b56aa27036ff\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\c97e23b277aa98fd0937b56aa27036ff\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4dbd2187f8e930210e04a8afc20716d2\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4dbd2187f8e930210e04a8afc20716d2\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d867b6a163bea18b385a5c70531240eb\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\d867b6a163bea18b385a5c70531240eb\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:22-76
+service#org.eclipse.paho.android.service.MqttService
+ADDED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-17:19
+	android:name
+		ADDED from [:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:18-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4dbd2187f8e930210e04a8afc20716d2\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4dbd2187f8e930210e04a8afc20716d2\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

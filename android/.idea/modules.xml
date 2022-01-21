@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iLucharge.iml" filepath="$PROJECT_DIR$/.idea/modules/iLucharge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/iLucharge.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/iLucharge.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1976838859/iLucharge.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1976838859/iLucharge.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1666623752/iLucharge.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1666623752/iLucharge.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1322008440/iLucharge.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1322008440/iLucharge.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/171264382/iLucharge.react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/171264382/iLucharge.react-native-community_toolbar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/929102839/iLucharge.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/929102839/iLucharge.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-317190833/iLucharge.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-317190833/iLucharge.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/302760289/iLucharge.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/302760289/iLucharge.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2107841696/iLucharge.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/-2107841696/iLucharge.react-native-localize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1424718748/iLucharge.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1424718748/iLucharge.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1145095315/iLucharge.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1145095315/iLucharge.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/773656056/iLucharge.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/773656056/iLucharge.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1119552528/iLucharge.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1119552528/iLucharge.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1127496595/iLucharge.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1127496595/iLucharge.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1767285991/iLucharge.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1767285991/iLucharge.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-886311027/iLucharge.sp-react-native-mqtt.iml" filepath="$PROJECT_DIR$/.idea/modules/-886311027/iLucharge.sp-react-native-mqtt.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "98180635727",
+    "firebase_url": "https://ilucharge-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ilucharge",
+    "storage_bucket": "ilucharge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98180635727:android:b63b08b71e83ec95965e3a",
+        "android_client_info": {
+          "package_name": "com.ilucharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98180635727-mbg3o44rfiu9pef6t4dk667u1n90f6ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK4IkcRXsNMNzru4D1wtRs31IzhGNCBiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98180635727-mbg3o44rfiu9pef6t4dk667u1n90f6ag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98180635727-us0a3qmme8n1kaabeumc79s6mccsddrb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "iLucharge.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

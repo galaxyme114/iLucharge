@@ -1,0 +1,114 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ilucharge"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:5:5-80
+12-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:6:5-79
+13-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->[:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-68
+14-->[:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:22-65
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+15-->[:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:22-76
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+20
+21    <application
+21-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:8:5-32:19
+22        android:name="com.ilucharge.MainApplication"
+22-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:9:7-38
+23        android:allowBackup="false"
+23-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:13:7-34
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\9a4658afade2e57b9a640b6674c28496\core-1.1.0\AndroidManifest.xml:24:18-86
+25        android:icon="@mipmap/ic_launcher"
+25-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:11:7-41
+26        android:label="@string/app_name"
+26-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:10:7-39
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:12:7-52
+28        android:theme="@style/AppTheme" >
+28-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:14:7-38
+29        <activity
+29-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:15:7-25:18
+30            android:name="com.ilucharge.MainActivity"
+30-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:16:9-37
+31            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+31-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:18:9-86
+32            android:label="@string/app_name"
+32-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:17:9-41
+33            android:launchMode="singleTask"
+33-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:19:9-40
+34            android:windowSoftInputMode="adjustResize" >
+34-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:20:9-51
+35            <intent-filter>
+35-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:21:9-24:25
+36                <action android:name="android.intent.action.MAIN" />
+36-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:22:13-65
+36-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:22:21-62
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:23:13-73
+38-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:23:23-70
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+41-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:26:7-84
+41-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:26:17-81
+42
+43        <meta-data
+43-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:28:7-31:9
+44            android:name="com.google.android.geo.API_KEY"
+44-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:29:9-54
+45            android:value="AIzaSyB0ddhKTA8ilSdtLJQcBMXoGe73aU3Hcro" />
+45-->D:\Download\ev-charger-app\iLucharge\android\app\src\main\AndroidManifest.xml:30:9-64
+46
+47        <service android:name="org.eclipse.paho.android.service.MqttService" >
+47-->[:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-17:19
+47-->[:sp-react-native-mqtt] D:\Download\ev-charger-app\iLucharge\node_modules\sp-react-native-mqtt\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:18-77
+48        </service> <!-- Needs to be explicitly declared on P+ -->
+49        <uses-library
+49-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+50            android:name="org.apache.http.legacy"
+50-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+51            android:required="false" />
+51-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\78f0a0a09f1bb14a3a2d04220894e2dc\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+52
+53        <activity
+53-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+54            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+54-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+55            android:exported="false"
+55-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+56            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+56-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\a11c3aedc407cce5e4340efdd0583456\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+57
+58        <meta-data
+58-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+59            android:name="com.google.android.gms.version"
+59-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+60            android:value="@integer/google_play_services_version" />
+60-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\IRON\.gradle\caches\transforms-2\files-2.1\4e35ebb5e7db5a440878bb928b1e04ee\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+61    </application>
+62
+63</manifest>
